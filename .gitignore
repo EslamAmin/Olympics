@@ -1,0 +1,9 @@
+# Ignore all .txt files
+*.txt
+
+# Ignore specific directories
+logs/
+temp/
+
+# Ignore specific files
+config.yaml
